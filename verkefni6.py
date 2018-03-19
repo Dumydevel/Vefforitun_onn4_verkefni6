@@ -59,4 +59,4 @@ def stylesheets(filename):
 def error404(error):
     return '<p>UmbeÃƒÂ°in sÃƒÂ­ÃƒÂ°a er ekki til</p><a href="/">Mass effect</a>'
 
-run(host='0.0.0.0', port=os.environ.get('PORT')
+run(host='0.0.0.0', port=os.environ.get('PORT'))
